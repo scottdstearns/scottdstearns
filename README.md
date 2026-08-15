@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scottdstearns
 - :disguised_face: I'm a husband to a wonderful woman and father of two great kids. 
-- 👀 I’m interested in machine learning applications in medical diagnostics. More than 70% of medical decisions are based on diagnostic tests - diagnostics is where it's at!
+- 👀 I'm interested in using AI to help small and mid-size businesses in my community. 
 - 🌱 Recently, I've been sketching more building with AI.
 - Recently read:
   * The Almanac of Naval Ravikant by Eric Jorgenson
